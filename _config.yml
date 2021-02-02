@@ -3,9 +3,9 @@ name: "Village Blog"
 title: "Village Blog"
 description: "Welcome to the Village Childcare Blog!"
 logo: 'assets/images/Village2-01.png'
-baseurl: 
-google_analytics: 'UA-22916797-9'
-disqus: 'demowebsite'
+baseurl: '/'
+google_analytics: ''
+disqus: ''
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
